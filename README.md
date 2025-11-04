@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hallo world! 👋
 
-<!--
-**radkamocilanova/radkamocilanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Contact
+LinkedIn: www.linkedin.com/in/radka-močilanová-544140b6
+Email: radka.svanova@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on developing my portfolio in Digital Marketing
+- 🌱 I’m currently learning new skills in Digital Marketing, like creating Business Plans, managing PPC campaigns, working with Google Ads, Google Analytics, Canva etc.
+- 👯 I’m looking to collaborate on projects relating to Digital Marketing
+- 🤔 I’m looking for help with different online marketing tools
+- 💬 Ask me about anything
+- 📫 How to reach me: radka.svanova@gmail.com or my LinkedIn profile: www.linkedin.com/in/radka-močilanová-544140b6
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can lick my nose
