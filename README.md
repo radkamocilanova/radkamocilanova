@@ -1,4 +1,4 @@
-## Hallo world! 👋
+## Hello world! 👋
 
 📫 Contact
 LinkedIn: www.linkedin.com/in/radka-močilanová-544140b6
